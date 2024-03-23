@@ -10,6 +10,8 @@ namespace gitlesson2_0
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("qwe");
+            Console.WriteLine(@"hello");
         }
     }
 }
